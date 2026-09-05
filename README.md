@@ -292,12 +292,12 @@ Transcript quantification| Salmon
 Gene annotation| GENCODE v50
 Data processing| R / Galaxy
 By combining cellular composition, cell-cell communication, cell-type-specific differential expression, pathway analysis, and bulk deconvolution, this project aims to connect cellular heterogeneity with molecular changes in the ER+ breast cancer microenvironment.
+Project Objective
 
+The overall objective is to integrate single-cell and bulk transcriptomic data to obtain a comprehensive view of ER+ breast cancer.
 ---
 **Author**
 **Rawan Salah**
 Biotechnology graduate | Faculty of Science
 
-Project Objective
 
-The overall objective is to integrate single-cell and bulk transcriptomic data to obtain a comprehensive view of ER+ breast cancer.
