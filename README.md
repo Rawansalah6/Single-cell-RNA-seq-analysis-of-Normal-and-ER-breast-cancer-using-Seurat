@@ -299,5 +299,7 @@ The overall objective is to integrate single-cell and bulk transcriptomic data t
 **Author**
 **Rawan Salah**
 Biotechnology graduate | Faculty of Science
+## Analysis Pipeline
 
+![Analysis Pipeline](figures/sc-pipeline/Slide1.jpg)
 
