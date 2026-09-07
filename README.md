@@ -95,7 +95,19 @@ Reads were quantified using Salmon through the Galaxy platform, generating a gen
 
 Ensembl gene IDs were mapped to gene symbols using GENCODE v50. Protein-coding genes were retained, and duplicated gene symbols were collapsed before downstream analysis.
 
-Bulk RNA-seq accession: To be added.
+Bulk RNA-seq accession: GSE58135.
+Sample| GSM ID| Condition
+ER1| GSM1401676 | ER+
+ER2| GSM1401677 | ER+
+ER3| GSM1401678 | ER+
+ER4| GSM1401679 | ER+
+ER5| GSM1401680 | ER+
+ER6| GSM1401681 | ER+
+NOR1| GSM1401790 | NOR
+NOR2| GSM1401791 | NOR
+NOR3| GSM1401792 | NOR
+NOR4| GSM1401793 | NOR
+NOR5| GSM1401794 | NOR
 
 ---
 
